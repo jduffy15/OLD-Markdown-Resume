@@ -1,6 +1,5 @@
 <a href="http://imgur.com/nTRpI5r"><img src="http://i.imgur.com/nTRpI5r.png" title="source: imgur.com" /></a>
-**Employment**
---------------
+<h4>Employment<h4>
 
 **ASUW: Associated Students of the University of Washington.** 
 
@@ -26,16 +25,15 @@
 
 >Nanny - September 2013 to Present. Daily care for 3 children under the age of 3. 
 
-**Education**
--------------
+<h4>Education<h4>
+
 
 **Gig Harbor High School, 2009, Honors.** 
 >Concurrently running with Tacoma Community College AA program.  
 
 **University of Washington, 2013, B.A. Psychology.**
+<h4>Outside Interest<h4>
 
-**Outside Interest**
--------------------
 >Over the past few months I have prepared myself for Ada coursework by completing avaialble online learning web applications. I familiarized myself with the basiscs of HTML, CSS, Java, Python and Ruby through these resources. This self-teaching approach included but was not limited to the resources linked below. 
 
 **Code Academy**
