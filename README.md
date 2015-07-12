@@ -1,8 +1,8 @@
 <a href="http://imgur.com/nTRpI5r"><img src="http://i.imgur.com/nTRpI5r.png" title="source: imgur.com" /></a>
 
-<h3>Employment</h3>
+<h2>Employment</h2>
 
-**ASUW: Associated Students of the University of Washington.** 
+**ASUW: Associated Students of the University of Washington.**
 
 >Senate Clerk - September 2010 to September 2011. 12 month contract position. Partnered in creation and maintenance of [ASUW Senate Webpage] [ASUW] to allow users to access data in secure, reliable and responsive way.
 
