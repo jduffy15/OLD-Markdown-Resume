@@ -1,5 +1,7 @@
 <a href="http://imgur.com/nTRpI5r"><img src="http://i.imgur.com/nTRpI5r.png" title="source: imgur.com" /></a>
 
+As a current nanny, I have pushed myself to engage in all forms of self-teaching for burgeoning developers. I embarked on this journey with no expereience in Excel, Github or Markdown. Along the way I've introduced the basics of several coding languages and syntax. I am excited about where my passion for programming can take me. I hope you will consider me for the Fall, 2015 cohort of Ada Developers Academy. 
+
 <h2>Employment</h2>
 
 **ASUW: Associated Students of the University of Washington.**
@@ -24,10 +26,9 @@
 
 **Leslie Collinson**
 
->Nanny - September 2013 to Present. Daily care for 3 children under the age of 3. 
+>Nanny - September 2013 to Present. Daily care for 3 children under the age of 3. I've had more challenging moments in this position than any other. I am constantly being pushed to be better, more creative, more patient and stronger by these kids. There has never been anything more rewarding than all of us overcoming a challenge together. 
 
 <h3>Education</h3>
-
 
 **Gig Harbor High School, 2009, Honors.** 
 >Concurrently running with Tacoma Community College AA program.  
